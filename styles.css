@@ -1,0 +1,56 @@
+@font-face {
+	font-family: Montserrat;
+	src: url(fonts/montserrat.ttf) format("truetype");
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#menu {
+	height: 80px;
+	background: #508C9B;
+
+}
+
+#logo {
+	position: fixed;
+	left: 80px;
+	top: -20px;
+	width: 120px;
+}
+
+#qisayol {
+	top: 26px;
+	left: 250px;
+	position: fixed;
+	font-family: Montserrat;
+	font-size: 150%;
+	color: White;
+}
+
+#studio {
+	top: 26px;
+	left: 500px;
+	position: fixed;
+	font-family: Montserrat;
+	font-size: 150%;
+	color: White;
+}
+
+#pul {
+	top: 26px;
+	left: 810px;
+	position: fixed;
+	font-family: Montserrat;
+	font-size: 150%;
+	color: White;
+}
+
+.link {
+	position: fixed;
+	left: 80px;
+	top: 100px;
+	width: 20%;
+}
